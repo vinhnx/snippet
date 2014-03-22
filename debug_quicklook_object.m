@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 
-#pragma mark - Test Debug QuickLook Object
+#pragma mark - Debug QuickLook Object
 
 - (id)debugQuickLookObject
 {
