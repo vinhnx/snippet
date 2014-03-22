@@ -1,5 +1,5 @@
 // Debug QuickLook object
-// 
+// A new and awesome Xcode feature, thanks Apple!
 //
 // IDECodeSnippetCompletionPrefix: debugq
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
