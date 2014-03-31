@@ -2,7 +2,7 @@
 // Class method that returns a singleton instance
 //
 // IDECodeSnippetCompletionPrefix: sing
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 0FD0D48A-44A4-47BB-878E-EBD016D48512
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
