@@ -1,5 +1,5 @@
 // dispatch
-// 
+// Perform async operation, then syncly update UI
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 4FBC971F-8115-4F99-8864-BC542BB93952
