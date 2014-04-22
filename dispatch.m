@@ -1,5 +1,5 @@
-// dispatch
 // Perform async operation, then syncly update UI
+// 
 //
 // IDECodeSnippetCompletionPrefix: disp
 // IDECodeSnippetCompletionScopes: [CodeBlock]
