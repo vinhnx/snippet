@@ -1,4 +1,4 @@
-// My Code Snippet
+// quick method definition
 // 
 //
 // IDECodeSnippetCompletionPrefix: void
