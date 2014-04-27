@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: awakeFromInsert
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 64092CD6-2849-46C5-96E8-442854E41EDD
+// IDECodeSnippetIdentifier: 89DE91D3-734A-41CA-9033-4200E4288670
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (void)awakeFromInsert
 {
     [super awakeFromInsert];
