@@ -1,4 +1,4 @@
-// NSString :stringWithFormat
+// nsstring_:stringwithformat
 // 
 //
 // IDECodeSnippetCompletionPrefix: nsw
@@ -7,4 +7,5 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// NSString: stringWithFormat
 [NSString stringWithFormat:<#(NSString *), ...#>]

@@ -1,6 +1,7 @@
-// BLOCK: Non-typedef parameter
+// block:_non-typedef_parameter
 // 
 //
+// BLOCK: Non-typedef parameter
 // IDECodeSnippetCompletionPrefix: BLOCK
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 68C2EBE7-A293-4CAD-9D32-0A6BE06A559C
