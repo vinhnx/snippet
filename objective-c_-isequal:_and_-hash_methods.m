@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: isEqual
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 30A07915-4F35-485B-902C-F416C822B759
+// IDECodeSnippetIdentifier: FEF67728-5C71-465D-B92C-EDECB3D86006
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (BOOL)isEqual:(id)other
 {
     if (other == self) {
