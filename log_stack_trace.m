@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-NSLog(@"<", [NSThread callStackSymbols]);
+NSLog(@"<#some log#>", [NSThread callStackSymbols]);
