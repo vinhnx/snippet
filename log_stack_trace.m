@@ -1,4 +1,4 @@
-// Log Stack Trace
+// NSLog
 // 
 //
 // IDECodeSnippetCompletionPrefix: log
