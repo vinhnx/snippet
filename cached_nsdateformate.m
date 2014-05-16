@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 68B68E95-621E-45C4-A9C9-0018FADA1E98
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 + (NSDateFormatter *)cachedDateFormatter {
     NSMutableDictionary *threadDictionary = [[NSThread currentThread] threadDictionary];
     NSDateFormatter *dateFormatter = [threadDictionary objectForKey:@"cachedDateFormatter"];
