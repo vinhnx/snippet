@@ -1,5 +1,5 @@
 // main queue processing
-// 
+// UIKit must be happen on main queue.
 //
 // IDECodeSnippetCompletionPrefix: mainq
 // IDECodeSnippetCompletionScopes: [CodeBlock]
