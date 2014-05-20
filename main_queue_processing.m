@@ -1,6 +1,7 @@
 // main queue processing
 // 
 //
+// IDECodeSnippetCompletionPrefix: mainq
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: F941B5F0-E9B5-4E52-BD14-10E722F83479
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
