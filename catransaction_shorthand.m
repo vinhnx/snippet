@@ -1,7 +1,7 @@
 // CATransaction shorthand
 // 
 //
-// IDECodeSnippetCompletionPrefix: catran
+// IDECodeSnippetCompletionPrefix: tran
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 978D6B9C-B1C0-4100-9FFE-8C63AC21E573
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
