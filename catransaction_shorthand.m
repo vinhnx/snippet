@@ -8,6 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 [CATransaction begin];
-    [CATransaction setAnimationDuration:1.0];
-    <#do something...#>
-    [CATransatcion commit];
+[CATransaction setAnimationDuration:1.0];
+<#do something...#>
+[CATransaction commit];
