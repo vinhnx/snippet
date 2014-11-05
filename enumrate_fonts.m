@@ -1,6 +1,7 @@
 // Enumrate Fonts
 // 
 //
+// IDECodeSnippetCompletionPrefix: fontenum
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: FFFB87D6-A08D-40AD-8B86-3F4A00C015EE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
