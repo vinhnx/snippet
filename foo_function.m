@@ -2,7 +2,7 @@
 // quick function
 //
 // IDECodeSnippetCompletionPrefix: ff
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: AE52A437-3898-43DD-8EF9-E48E4B424D0C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
