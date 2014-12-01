@@ -1,5 +1,5 @@
 // Bundle Seed ID
-// 
+// return bundle seed ID
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: D284F0FF-EBBE-4618-A9DC-39258488E909
