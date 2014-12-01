@@ -1,6 +1,7 @@
 // Bundle Seed ID
 // return bundle seed ID
 //
+// IDECodeSnippetCompletionPrefix: bundles
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: D284F0FF-EBBE-4618-A9DC-39258488E909
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
