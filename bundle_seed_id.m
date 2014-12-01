@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: D284F0FF-EBBE-4618-A9DC-39258488E909
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 NSString *const WSCBundleSeedID()
 {
     NSDictionary *query = [NSDictionary dictionaryWithObjectsAndKeys:
